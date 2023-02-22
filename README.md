@@ -2,9 +2,9 @@
 
 # Data Analysis and Visualisation using Excel and Tableau 
 
-Aim: To Analyze and Visualise the dataset ‘The Wealth of the Nations’. This dataset has information about Gross Domestic Product (GDP), Life expectancy at birth and Smart phone usage of different nations around the world. 
+Objective: To Analyze and Visualise the dataset ‘The Wealth of the Nations’. This dataset has information about Gross Domestic Product (GDP), Life expectancy at birth and Smart phone usage of different nations around the world. 
 
-Requirements: Accessible dashboard for colour-blind users.
+Specifications: Accessible dashboard for colour-blind users.
 
 The data is manipulated using Excel and GDP report was created. Macros were created to automate tasks like copy, print and save the report. The dataset is then imported in Tableau for data visualisation. The dashboard displays only the Top 20 countries by GDP, Life expectancy at birth and Number of Smartphone users. The dashboard has been created following the accessibility and visual guidelines outlined for colour-blind individuals.
 
