@@ -16,4 +16,4 @@ The data is manipulated using Excel and GDP report was created. Macros were crea
 
 ![image](https://user-images.githubusercontent.com/110288870/220477254-b02edf25-ff2d-4773-8d77-dbad65d4e359.png)
 
-For Tableau Public Dashboard, [Click here:](https://public.tableau.com/views/BestoftheWorldGDPLifeExpectancyandTech/TOP20GDPLIFETECH?:language=en-GB&:display_count=n&:origin=viz_share_link)
+For Tableau Public Dashboard, [Click here](https://public.tableau.com/views/BestoftheWorldGDPLifeExpectancyandTech/TOP20GDPLIFETECH?:language=en-GB&:display_count=n&:origin=viz_share_link)
